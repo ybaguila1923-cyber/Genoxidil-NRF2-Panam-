@@ -1,0 +1,6 @@
+{
+  "name": "NBN Living - Genoxidil NRF2",
+  "description": "Sitio web oficial de Genoxidil NRF2 de NBN Living: información científica, beneficios de los 5 sistemas, paquetes de compra, formulario de pedido y sedes internacionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
